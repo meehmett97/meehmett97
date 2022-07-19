@@ -1,6 +1,5 @@
 Merhaba ben meehmett97 
-Sağlık bilgi sistemleri teknikerliği
-2.Sınıf öğrencisiyim.
+Sağlık bilgi sistemleri teknikerliği mezunuyum
 C# üzerine çalışıyorum 
 Masaüstü uygulaması geliştiriyorum
 Bana instagram mali.yldrmm üzerinden 
